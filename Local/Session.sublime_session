@@ -1,0 +1,2674 @@
+{
+	"folder_history":
+	[
+		"/C/Users/USER-BOB/Documents/MEGAsync/divers/Tuto",
+		"/C/Users/USER-BOB/Documents/MEGAsync/ConnecDeconnec",
+		"/C/Users/USER-BOB/Documents/MEGAsync/GICOPECAM_bon",
+		"/C/Users/USER-BOB/Documents/MEGAsync/web",
+		"/C/Users/USER-BOB/Documents/MEGAsync/courUdemy/BurgerCode",
+		"/C/Users/USER-BOB/Documents/MEGAsync/siteAZ",
+		"/C/Users/USER-BOB/Documents/MEGAsync/grafickart/siteAZ",
+		"/C/Users/USER-BOB/Documents/MEGAsync/projetAntoine",
+		"/C/Users/USER-BOB/Documents/MEGAsync/MonFramework",
+		"/C/Users/USER-BOB/Documents/MEGAsync/teacher",
+		"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify",
+		"/C/Users/USER-BOB/Documents/MEGAsync/start",
+		"/C/Users/USER-BOB/Documents/MEGAsync/MonBlog",
+		"/C/Users/USER-BOB/Documents/MEGAsync/Sites/MonFramework",
+		"/C/Users/USER-BOB/Documents/MEGAsync/tuto/site",
+		"/C/Users/USER-BOB/Documents/MEGAsync/siteComplet",
+		"/C/Users/USER-BOB/Documents/MEGAsync/phpUnit",
+		"/C/Users/USER-BOB/Documents/MEGAsync/learnComposer",
+		"/C/Users/USER-BOB/Documents/MEGAsync/grafickart",
+		"/C/Users/USER-BOB/Documents/MEGAsync/classe"
+	],
+	"last_version": 3176,
+	"last_window_id": 21,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 865.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ae",
+						"azeeaz"
+					],
+					[
+						"getS",
+						"getStatus()\tPHPUnit\\Framework\\IncompleteTestCase"
+					],
+					[
+						"assertE",
+						"assertEquals"
+					],
+					[
+						"hear",
+						"headers_list"
+					],
+					[
+						"te",
+						"TestCase"
+					],
+					[
+						"Tes",
+						"PHPUnit_Framework_TestCase"
+					],
+					[
+						"hea",
+						"header\t<header>"
+					],
+					[
+						"conn",
+						"connexion\t(dec.php)"
+					],
+					[
+						"pass",
+						"pass_hache\t(conn.php)"
+					],
+					[
+						"session_de",
+						"session_destroy"
+					],
+					[
+						"R",
+						"Refresh:2;url=../nasa.php\t(conn.php)"
+					],
+					[
+						"sessio",
+						"session_start\t(conn.php)"
+					],
+					[
+						"da",
+						"database.php\t(conn.php)"
+					],
+					[
+						"req",
+						"req\trequire …"
+					],
+					[
+						"em",
+						"empty\t(traitement.php)"
+					],
+					[
+						"corre",
+						"correct\t(secret.php)"
+					],
+					[
+						"require",
+						"require"
+					],
+					[
+						"navbar",
+						"navbar-toggle \tBootstrap 3 Class"
+					],
+					[
+						"navb",
+						"navbar-toggler-right\t(header.php)"
+					],
+					[
+						"na",
+						"navbar-btn \tBootstrap 3 Class"
+					],
+					[
+						"ac",
+						"actesdenaissance\t(seach.php)"
+					],
+					[
+						"act",
+						"actesdemariage"
+					],
+					[
+						"acte",
+						"actesdemariage\t(seach.php)"
+					],
+					[
+						"btn-de",
+						"btn-default \tBootstrap 3 Class"
+					],
+					[
+						"btn-",
+						"btn-link \tBootstrap 3 Class"
+					],
+					[
+						"btn-pr",
+						"btn-primary \tBootstrap 3 Class"
+					],
+					[
+						"btn-s",
+						"btn-sm \tBootstrap 3 Class"
+					],
+					[
+						"navbar-s",
+						"navbar-static-top \tBootstrap 3 Class"
+					],
+					[
+						"foo",
+						"footer.php\t(index.php)"
+					],
+					[
+						"bo",
+						"body"
+					],
+					[
+						"b",
+						"base\t<base>"
+					],
+					[
+						"ce",
+						"center\ttext-align"
+					],
+					[
+						"fl",
+						"flex\tproperty"
+					],
+					[
+						"a",
+						"absolute\tposition"
+					],
+					[
+						"btn-d",
+						"btn-default \tBootstrap 3 Class"
+					],
+					[
+						"btn",
+						"btn-primary\t(index.php)"
+					],
+					[
+						"bt",
+						"btn \tBootstrap 3 Class"
+					],
+					[
+						"page",
+						"pageSeach.php\t(index.php)"
+					],
+					[
+						"tab",
+						"table-bordered \tBootstrap 3 Class"
+					],
+					[
+						"ta",
+						"table-bordered \tBootstrap 3 Class"
+					],
+					[
+						"pa",
+						"partials\t(index.php)"
+					],
+					[
+						"par",
+						"partials"
+					],
+					[
+						"va",
+						"valeur"
+					],
+					[
+						"res",
+						"results"
+					],
+					[
+						"isa",
+						"is_array"
+					],
+					[
+						"no",
+						"none\ttext-decoration"
+					],
+					[
+						"wi",
+						"width\tproperty"
+					],
+					[
+						"bacc",
+						"background-color\tproperty"
+					],
+					[
+						"bac",
+						"background\tproperty"
+					],
+					[
+						"col",
+						"color\tproperty"
+					],
+					[
+						"bode",
+						"border\tproperty"
+					],
+					[
+						"borr",
+						"border-radius\tproperty"
+					],
+					[
+						"pos",
+						"position\tproperty"
+					],
+					[
+						"texal",
+						"text-align\tproperty"
+					],
+					[
+						"tap",
+						"tab-pane \tBootstrap 3 Class"
+					],
+					[
+						"ro",
+						"row \tBootstrap 3 Class"
+					],
+					[
+						"tab-p",
+						"tab-pane \tBootstrap 3 Class"
+					],
+					[
+						"tab-",
+						"tab-content \tBootstrap 3 Class"
+					],
+					[
+						"tabp",
+						"tab-pane \tBootstrap 3 Class"
+					],
+					[
+						"nav",
+						"nav-pills \tBootstrap 3 Class"
+					],
+					[
+						"navp",
+						"navbar-collapse \tBootstrap 3 Class"
+					],
+					[
+						"dat",
+						"data-toggle"
+					],
+					[
+						"thi",
+						"thumbnail \tBootstrap 3 Class"
+					],
+					[
+						"cla",
+						"class\tAttr"
+					],
+					[
+						"con",
+						"container\t(index.php)"
+					],
+					[
+						"array",
+						"array_slice($params,2"
+					],
+					[
+						"pri",
+						"PRIO_PGRP"
+					],
+					[
+						"array_s",
+						"array_slice"
+					],
+					[
+						"para",
+						"params"
+					],
+					[
+						"pra",
+						"params"
+					],
+					[
+						"DI",
+						"Dispatcher\t(Dispatcher.php)"
+					],
+					[
+						"class",
+						"class"
+					],
+					[
+						"ech",
+						"echo"
+					],
+					[
+						"defi",
+						"define"
+					],
+					[
+						"__",
+						"__FILE__"
+					],
+					[
+						"dir",
+						"dirname"
+					],
+					[
+						"Requ",
+						"request"
+					],
+					[
+						"nam",
+						"namespace"
+					],
+					[
+						"echo",
+						"echo\techo \"…\""
+					],
+					[
+						"Per",
+						"PersonnageManager"
+					],
+					[
+						"un",
+						"unPerso"
+					],
+					[
+						"iss",
+						"isset"
+					],
+					[
+						"exi",
+						"existe"
+					],
+					[
+						"perso",
+						"personnage"
+					],
+					[
+						"els",
+						"else"
+					],
+					[
+						"get",
+						"getList"
+					],
+					[
+						"per",
+						"perso"
+					],
+					[
+						"el",
+						"elseif"
+					],
+					[
+						"requi",
+						"require"
+					],
+					[
+						"P",
+						"PDO"
+					],
+					[
+						"pre",
+						"prepare"
+					],
+					[
+						"pers",
+						"perso"
+					],
+					[
+						"exe",
+						"execute"
+					],
+					[
+						"Count",
+						"COUNT"
+					],
+					[
+						"cou",
+						"countPerso"
+					],
+					[
+						"meth",
+						"method_exists"
+					],
+					[
+						"for",
+						"foreach"
+					],
+					[
+						"Ban",
+						"BankAccount"
+					],
+					[
+						"ba",
+						"balance"
+					],
+					[
+						"com",
+						"compteBancaireDeHerman"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"fu",
+						"fullName"
+					],
+					[
+						"is_s",
+						"is_string"
+					],
+					[
+						"param",
+						"parameters"
+					],
+					[
+						"he",
+						"helperParameters"
+					],
+					[
+						"arrap",
+						"array_pop"
+					],
+					[
+						"pro",
+						"property\t(BaseRepository.php)"
+					],
+					[
+						"met",
+						"method"
+					],
+					[
+						"ob",
+						"object"
+					],
+					[
+						"object",
+						"object"
+					],
+					[
+						"objec",
+						"object\t(BaseRepository.php)"
+					],
+					[
+						"is",
+						"isObject"
+					],
+					[
+						"variables",
+						"variables"
+					],
+					[
+						"dyna",
+						"dynamize\t(Dynamizer.php)"
+					],
+					[
+						"set",
+						"setView\t(Dynamizer.php)"
+					],
+					[
+						"contro",
+						"controllerParameters"
+					],
+					[
+						"contr",
+						"controllerParameters"
+					],
+					[
+						"viw",
+						"viewParameters"
+					],
+					[
+						"cl",
+						"cleanGetParameters"
+					],
+					[
+						"uns",
+						"unset"
+					],
+					[
+						"arrayk",
+						"array_key_exists"
+					],
+					[
+						"vi",
+						"viewPathString"
+					],
+					[
+						"dis",
+						"dispatch\t(Dispatcher.php)"
+					],
+					[
+						"di",
+						"dispatcher"
+					],
+					[
+						"Co",
+						"Collectify\t(ItemController.php)"
+					],
+					[
+						"file_",
+						"file_get_contents"
+					],
+					[
+						"T",
+						"TYPE\t(ItemFixtures.php)"
+					],
+					[
+						"name",
+						"namespace\t(Category.php)"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"li",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"LI",
+						"Snippet: link - icon"
+					],
+					[
+						"liv",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"p",
+						"Package Control: Install Package"
+					],
+					[
+						"auto",
+						"Toggle AutoSave: all files"
+					],
+					[
+						"pre",
+						"Preferences: CSSLint Settings – User"
+					],
+					[
+						"l",
+						"LiveReload: Help"
+					],
+					[
+						"live",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"cd ../",
+					"cd",
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/vendor/psr/http-message/src/ServerRequestInterface.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/vendor/bin/phpunit",
+				"/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/composer.json",
+				"/C/Users/USER-BOB/Documents/MEGAsync/ConnecDeconnec/connexion.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/ConnecDeconnec/traitement/traitement.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/ConnecDeconnec/nasa.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/ConnecDeconnec/dec.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/ConnecDeconnec/traitement/conn.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/GICOPECAM_bon/partials/header.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/GICOPECAM_bon/seach.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/GICOPECAM_bon/pageSeach.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/ConnecDeconnec/traitement/secret.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/ConnecDeconnec/config/database.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/ConnecDeconnec/inscription.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/GICOPECAM_bon/admin/insert.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/GICOPECAM_bon/admin/index.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/GICOPECAM_bon/partials/footer.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/GICOPECAM_bon/ME/assets/css/theme2.css",
+				"/C/Users/USER-BOB/Documents/MEGAsync/GICOPECAM_bon/css/agency.css",
+				"/C/Users/USER-BOB/Documents/MEGAsync/GICOPECAM_bon/index.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/GICOPECAM_bon/ME/assets/css/theme.css",
+				"/C/Users/USER-BOB/Documents/MEGAsync/GICOPECAM_bon/partials/header2.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/GICOPECAM_bon/css/seach.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/classe/divers/seach.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/courUdemy/BurgerCode/index.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/classe/blog/index.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/courUdemy/BurgerCode/css/style.css",
+				"/C/Users/USER-BOB/Documents/MEGAsync/courUdemy/projetBurger/index.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/projetAntoine/seach.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/web/index.html",
+				"/C/Users/USER-BOB/Documents/MEGAsync/projetAntoine/index.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/web/error/400.html",
+				"/C/Users/USER-BOB/Documents/MEGAsync/courUdemy/SourceCode_Projet_MySQL 'burger'/index.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/courUdemy/SourceCode_Projet_MySQL 'burger'/admin/database.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/courUdemy/SourceCode_Projet_MySQL 'burger'/admin/delete.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/courUdemy/SourceCode_Projet_MySQL 'burger'/admin/index.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/courUdemy/SourceCode_Projet_MySQL 'burger'/admin/insert.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/courUdemy/SourceCode_Projet_MySQL 'burger'/admin/update.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/courUdemy/SourceCode_Projet_MySQL 'burger'/admin/view.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/courUdemy/BurgerCode/index.html",
+				"/C/Users/USER-BOB/Documents/MEGAsync/courUdemy/BurgerCode/qfqf",
+				"/C/Users/USER-BOB/Documents/MEGAsync/siteAZ/core/includes.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/siteAZ/controller/PagesController.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/siteAZ/core/Controller.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/siteAZ/core/Request.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/siteAZ/core/Router.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/siteAZ/core/Dispatcher.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/siteAZ/webroot/index.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/siteAZ/webroot/css/style.css",
+				"/C/Users/USER-BOB/Documents/MEGAsync/siteAZ/.htaccess",
+				"/C/Users/USER-BOB/Documents/MEGAsync/siteAZ/webroot/.htaccess",
+				"/C/Users/USER-BOB/Documents/MEGAsync/siteAZ/core",
+				"/C/Users/USER-BOB/Documents/MEGAsync/projetAntoine/assets/css/heroic-features.css",
+				"/C/Users/USER-BOB/Documents/MEGAsync/projetAntoine/partials/header.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/projetAntoine/config/database.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/src/Framework/App.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/public/index.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/vendor/phpunit/phpunit/src/Framework/TestCase.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/tests/Framework/AppTest.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/teacher/courTeacher/Voiture.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/teacher/courTeacher/BankAccount.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/classe/tp_mini_jeux/index.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/classe/tp_mini_jeux/PersonnagesManager.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/classe/tp_mini_jeux/Personnage.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/teacher/courTeacher/Person.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/classe/POO/personnageManager.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/composer.phar",
+				"/C/Users/USER-BOB/Documents/MEGAsync/classe/POO/indexPersonnage.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/classe/POO/index2.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/classe/POO/test1.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/web/app.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Views/home/homepage.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Controller/HomeController.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Services/Viewer.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Services/Helper.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Services/Dynamizer.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Services/Dispatcher.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/core/config.inc.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Controller/ItemController.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php",
+				"/C/Users/USER-BOB/AppData/Roaming/Sublime Text 3/Packages/PHP Getters and Setters/php-getters-setters.sublime-settings",
+				"/C/Users/USER-BOB/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+				"/C/Program Files/Cmder/config/user-aliases.cmd",
+				"/C/Users/USER-BOB/Desktop/Cmder/config/user-aliases.cmd",
+				"/C/Users/USER-BOB/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/USER-BOB/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+				"/C/Users/USER-BOB/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/C/Users/USER-BOB/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Controller/CategoryController.php",
+				"/C/Users/USER-BOB/Downloads/Formations/Complet/Fichiers source/Chapitre04/01_dispatcher_le_rendu/Collectify/src/Collectify/Views/home/homepage.html",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Model/BaseRepository.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Model/BaseModel.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Model/ItemRepository.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Model/CategoryRepository.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Model/UserRepository.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Datafixtures/BaseFixtures.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Datafixtures/LoadFixtures.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Datafixtures/ItemFixtures.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Datafixtures/UserFixtures.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Datafixtures/CategoryFixtures.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Model/Category.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/quelqueRessource.html",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Model/Item.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Model/User.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/composer.json",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/vendor/gabordemooij/redbean/RedBeanPHP/loader.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/core/bootstrap.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/vendor/gabordemooij/redbean/RedBeanPHP/SimpleModel.php",
+				"/C/Users/USER-BOB/Downloads/Formations/Complet/Fichiers source/Chapitre03/00_pensez_objet/Collectify/src/Collectify/Model/Category.php",
+				"/C/Users/USER-BOB/Downloads/Formations/Complet/Fichiers source/Chapitre02/03_bootstrap_et_point_d_entree/Collectify/web/app.php",
+				"/C/Users/USER-BOB/Downloads/Formations/Complet/Fichiers source/Chapitre02/04_base_de_donnees_et_redbean/Collectify/web/app.php",
+				"/C/Users/USER-BOB/Downloads/Formations/Complet/Fichiers source/Chapitre02/04_base_de_donnees_et_redbean/Collectify/composer.json",
+				"/C/Users/USER-BOB/Downloads/Formations/Complet/Fichiers source/Chapitre02/04_base_de_donnees_et_redbean/Collectify/composer.phar",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/.gitignore",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/index.php",
+				"/C/Users/USER-BOB/AppData/Roaming/Sublime Text 3/Packages/User/CSSLint.sublime-settings",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/composer-setup.php",
+				"/C/Users/USER-BOB/Downloads/php Version/PhpStorm 2018.1 + crack/LicenceServer 1.3/IntelliJIDEALicenseServer.html",
+				"/C/Users/USER-BOB/Downloads/Formations/Complet/Fichiers source/Chapitre01/04_structure_du_projet/Collectify/.DS_Store",
+				"/C/Users/USER-BOB/Documents/MEGAsync/start/composer.json",
+				"/C/Users/USER-BOB/Documents/MEGAsync/start/data/pets.json",
+				"/C/Users/USER-BOB/Documents/MEGAsync/start/lib/function.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/start/contact.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/start/layout/footer.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/start/layout/header.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/start/index.php",
+				"/C/Users/USER-BOB/Downloads/Z Nation S04/[ Torrent9.bz ] Z.Nation.S04E12.FRENCH.HDTV.XviD-ZT/Musique MP3.html",
+				"/C/Users/USER-BOB/Downloads/Formations/KNPUniversity/Course_1_How_to_win_friends__develop_in_PHP/finish/data/pets.json"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"pass",
+					"js-scroll-trigger",
+					"pass",
+					"permisdeconduire",
+					"actesdemariage",
+					"td",
+					"index",
+					"prenoms",
+					"requette",
+					"TestCase",
+					"private",
+					"id",
+					"niveau",
+					"id",
+					"degats",
+					"forcePerso",
+					"S",
+					"s",
+					"herman",
+					"var",
+					"Id",
+					"id",
+					"Id",
+					"id",
+					"Id",
+					"id",
+					"_niveau",
+					"_degats",
+					"_forcePerso",
+					"controller",
+					"oh",
+					"item",
+					"itemFixtures",
+					"pancake",
+					"db",
+					"public",
+					"degats",
+					";\n",
+					"autoloader",
+					"private",
+					"toto",
+					"public",
+					"krumo",
+					"firstName",
+					"echo",
+					"version",
+					"Perso",
+					"perso",
+					"public",
+					"private"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 134.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 134.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"classename",
+						"classe\\POO\\personnageManager.php"
+					],
+					[
+						"ReadbeanPHP\\fa",
+						"Collectify\\vendor\\gabordemooij\\redbean\\RedBeanPHP\\Facade.php"
+					],
+					[
+						"Reabean\\fa",
+						"Collectify\\vendor\\gabordemooij\\redbean\\RedBeanPHP\\Facade.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 227.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1198.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ae",
+						"azeeaz"
+					],
+					[
+						"getS",
+						"getStatus()\tPHPUnit\\Framework\\IncompleteTestCase"
+					],
+					[
+						"assertE",
+						"assertEquals"
+					],
+					[
+						"hear",
+						"headers_list"
+					],
+					[
+						"te",
+						"TestCase"
+					],
+					[
+						"Tes",
+						"PHPUnit_Framework_TestCase"
+					],
+					[
+						"hea",
+						"header\t<header>"
+					],
+					[
+						"conn",
+						"connexion\t(dec.php)"
+					],
+					[
+						"pass",
+						"pass_hache\t(conn.php)"
+					],
+					[
+						"session_de",
+						"session_destroy"
+					],
+					[
+						"R",
+						"Refresh:2;url=../nasa.php\t(conn.php)"
+					],
+					[
+						"sessio",
+						"session_start\t(conn.php)"
+					],
+					[
+						"da",
+						"database.php\t(conn.php)"
+					],
+					[
+						"req",
+						"req\trequire …"
+					],
+					[
+						"em",
+						"empty\t(traitement.php)"
+					],
+					[
+						"corre",
+						"correct\t(secret.php)"
+					],
+					[
+						"require",
+						"require"
+					],
+					[
+						"navbar",
+						"navbar-toggle \tBootstrap 3 Class"
+					],
+					[
+						"navb",
+						"navbar-toggler-right\t(header.php)"
+					],
+					[
+						"na",
+						"navbar-btn \tBootstrap 3 Class"
+					],
+					[
+						"ac",
+						"actesdenaissance\t(seach.php)"
+					],
+					[
+						"act",
+						"actesdemariage"
+					],
+					[
+						"acte",
+						"actesdemariage\t(seach.php)"
+					],
+					[
+						"btn-de",
+						"btn-default \tBootstrap 3 Class"
+					],
+					[
+						"btn-",
+						"btn-link \tBootstrap 3 Class"
+					],
+					[
+						"btn-pr",
+						"btn-primary \tBootstrap 3 Class"
+					],
+					[
+						"btn-s",
+						"btn-sm \tBootstrap 3 Class"
+					],
+					[
+						"navbar-s",
+						"navbar-static-top \tBootstrap 3 Class"
+					],
+					[
+						"foo",
+						"footer.php\t(index.php)"
+					],
+					[
+						"bo",
+						"body"
+					],
+					[
+						"b",
+						"base\t<base>"
+					],
+					[
+						"ce",
+						"center\ttext-align"
+					],
+					[
+						"fl",
+						"flex\tproperty"
+					],
+					[
+						"a",
+						"absolute\tposition"
+					],
+					[
+						"btn-d",
+						"btn-default \tBootstrap 3 Class"
+					],
+					[
+						"btn",
+						"btn-primary\t(index.php)"
+					],
+					[
+						"bt",
+						"btn \tBootstrap 3 Class"
+					],
+					[
+						"page",
+						"pageSeach.php\t(index.php)"
+					],
+					[
+						"tab",
+						"table-bordered \tBootstrap 3 Class"
+					],
+					[
+						"ta",
+						"table-bordered \tBootstrap 3 Class"
+					],
+					[
+						"pa",
+						"partials\t(index.php)"
+					],
+					[
+						"par",
+						"partials"
+					],
+					[
+						"va",
+						"valeur"
+					],
+					[
+						"res",
+						"results"
+					],
+					[
+						"isa",
+						"is_array"
+					],
+					[
+						"no",
+						"none\ttext-decoration"
+					],
+					[
+						"wi",
+						"width\tproperty"
+					],
+					[
+						"bacc",
+						"background-color\tproperty"
+					],
+					[
+						"bac",
+						"background\tproperty"
+					],
+					[
+						"col",
+						"color\tproperty"
+					],
+					[
+						"bode",
+						"border\tproperty"
+					],
+					[
+						"borr",
+						"border-radius\tproperty"
+					],
+					[
+						"pos",
+						"position\tproperty"
+					],
+					[
+						"texal",
+						"text-align\tproperty"
+					],
+					[
+						"tap",
+						"tab-pane \tBootstrap 3 Class"
+					],
+					[
+						"ro",
+						"row \tBootstrap 3 Class"
+					],
+					[
+						"tab-p",
+						"tab-pane \tBootstrap 3 Class"
+					],
+					[
+						"tab-",
+						"tab-content \tBootstrap 3 Class"
+					],
+					[
+						"tabp",
+						"tab-pane \tBootstrap 3 Class"
+					],
+					[
+						"nav",
+						"nav-pills \tBootstrap 3 Class"
+					],
+					[
+						"navp",
+						"navbar-collapse \tBootstrap 3 Class"
+					],
+					[
+						"dat",
+						"data-toggle"
+					],
+					[
+						"thi",
+						"thumbnail \tBootstrap 3 Class"
+					],
+					[
+						"cla",
+						"class\tAttr"
+					],
+					[
+						"con",
+						"container\t(index.php)"
+					],
+					[
+						"array",
+						"array_slice($params,2"
+					],
+					[
+						"pri",
+						"PRIO_PGRP"
+					],
+					[
+						"array_s",
+						"array_slice"
+					],
+					[
+						"para",
+						"params"
+					],
+					[
+						"pra",
+						"params"
+					],
+					[
+						"DI",
+						"Dispatcher\t(Dispatcher.php)"
+					],
+					[
+						"class",
+						"class"
+					],
+					[
+						"ech",
+						"echo"
+					],
+					[
+						"defi",
+						"define"
+					],
+					[
+						"__",
+						"__FILE__"
+					],
+					[
+						"dir",
+						"dirname"
+					],
+					[
+						"Requ",
+						"request"
+					],
+					[
+						"nam",
+						"namespace"
+					],
+					[
+						"echo",
+						"echo\techo \"…\""
+					],
+					[
+						"Per",
+						"PersonnageManager"
+					],
+					[
+						"un",
+						"unPerso"
+					],
+					[
+						"iss",
+						"isset"
+					],
+					[
+						"exi",
+						"existe"
+					],
+					[
+						"perso",
+						"personnage"
+					],
+					[
+						"els",
+						"else"
+					],
+					[
+						"get",
+						"getList"
+					],
+					[
+						"per",
+						"perso"
+					],
+					[
+						"el",
+						"elseif"
+					],
+					[
+						"requi",
+						"require"
+					],
+					[
+						"P",
+						"PDO"
+					],
+					[
+						"pre",
+						"prepare"
+					],
+					[
+						"pers",
+						"perso"
+					],
+					[
+						"exe",
+						"execute"
+					],
+					[
+						"Count",
+						"COUNT"
+					],
+					[
+						"cou",
+						"countPerso"
+					],
+					[
+						"meth",
+						"method_exists"
+					],
+					[
+						"for",
+						"foreach"
+					],
+					[
+						"Ban",
+						"BankAccount"
+					],
+					[
+						"ba",
+						"balance"
+					],
+					[
+						"com",
+						"compteBancaireDeHerman"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"fu",
+						"fullName"
+					],
+					[
+						"is_s",
+						"is_string"
+					],
+					[
+						"param",
+						"parameters"
+					],
+					[
+						"he",
+						"helperParameters"
+					],
+					[
+						"arrap",
+						"array_pop"
+					],
+					[
+						"pro",
+						"property\t(BaseRepository.php)"
+					],
+					[
+						"met",
+						"method"
+					],
+					[
+						"ob",
+						"object"
+					],
+					[
+						"object",
+						"object"
+					],
+					[
+						"objec",
+						"object\t(BaseRepository.php)"
+					],
+					[
+						"is",
+						"isObject"
+					],
+					[
+						"variables",
+						"variables"
+					],
+					[
+						"dyna",
+						"dynamize\t(Dynamizer.php)"
+					],
+					[
+						"set",
+						"setView\t(Dynamizer.php)"
+					],
+					[
+						"contro",
+						"controllerParameters"
+					],
+					[
+						"contr",
+						"controllerParameters"
+					],
+					[
+						"viw",
+						"viewParameters"
+					],
+					[
+						"cl",
+						"cleanGetParameters"
+					],
+					[
+						"uns",
+						"unset"
+					],
+					[
+						"arrayk",
+						"array_key_exists"
+					],
+					[
+						"vi",
+						"viewPathString"
+					],
+					[
+						"dis",
+						"dispatch\t(Dispatcher.php)"
+					],
+					[
+						"di",
+						"dispatcher"
+					],
+					[
+						"Co",
+						"Collectify\t(ItemController.php)"
+					],
+					[
+						"file_",
+						"file_get_contents"
+					],
+					[
+						"T",
+						"TYPE\t(ItemFixtures.php)"
+					],
+					[
+						"name",
+						"namespace\t(Category.php)"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/public/index.php",
+					"settings":
+					{
+						"buffer_size": 328,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/composer.json",
+					"settings":
+					{
+						"buffer_size": 383,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/src/Framework/App.php",
+					"settings":
+					{
+						"buffer_size": 432,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "<?php\n\nnamespace Tests\\Framework;\n\nuse Framework\\App;\n\nclass AppTest extends \\PHPUnit\\Framework\\TestCase\n{\n  public function testRedirectTrailingSlash()\n  {\n    $app = new App();\n\n    $request = new ServerRequest('GET', '/demoslash/');\n\n    $response = $app->run($request);\n\n    $this->assertEquals('/demoslash', $response->getHeader('Location'));\n\n    $this->assertEquals(301, $response->getStatusCode());\n  }\n}\n\n\n\n//use \\PHPUnit\\Framework\\TestCase;\n",
+					"file": "/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/tests/Framework/AppTest.php",
+					"file_size": 483,
+					"file_write_time": 131867931416794191,
+					"settings":
+					{
+						"buffer_size": 451,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"li",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"LI",
+						"Snippet: link - icon"
+					],
+					[
+						"liv",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"p",
+						"Package Control: Install Package"
+					],
+					[
+						"auto",
+						"Toggle AutoSave: all files"
+					],
+					[
+						"pre",
+						"Preferences: CSSLint Settings – User"
+					],
+					[
+						"l",
+						"LiveReload: Help"
+					],
+					[
+						"live",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"cd ../",
+					"cd",
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/USER-BOB/Documents/MEGAsync/MonFramework",
+				"/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/public",
+				"/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/src",
+				"/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/src/Framework",
+				"/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/tests",
+				"/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/tests/Framework"
+			],
+			"file_history":
+			[
+				"/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/vendor/psr/http-message/src/ServerRequestInterface.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/vendor/bin/phpunit",
+				"/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/composer.json",
+				"/C/Users/USER-BOB/Documents/MEGAsync/ConnecDeconnec/connexion.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/ConnecDeconnec/traitement/traitement.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/ConnecDeconnec/nasa.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/ConnecDeconnec/dec.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/ConnecDeconnec/traitement/conn.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/GICOPECAM_bon/partials/header.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/GICOPECAM_bon/seach.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/GICOPECAM_bon/pageSeach.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/ConnecDeconnec/traitement/secret.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/ConnecDeconnec/config/database.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/ConnecDeconnec/inscription.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/GICOPECAM_bon/admin/insert.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/GICOPECAM_bon/admin/index.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/GICOPECAM_bon/partials/footer.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/GICOPECAM_bon/ME/assets/css/theme2.css",
+				"/C/Users/USER-BOB/Documents/MEGAsync/GICOPECAM_bon/css/agency.css",
+				"/C/Users/USER-BOB/Documents/MEGAsync/GICOPECAM_bon/index.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/GICOPECAM_bon/ME/assets/css/theme.css",
+				"/C/Users/USER-BOB/Documents/MEGAsync/GICOPECAM_bon/partials/header2.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/GICOPECAM_bon/css/seach.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/classe/divers/seach.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/courUdemy/BurgerCode/index.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/classe/blog/index.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/courUdemy/BurgerCode/css/style.css",
+				"/C/Users/USER-BOB/Documents/MEGAsync/courUdemy/projetBurger/index.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/projetAntoine/seach.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/web/index.html",
+				"/C/Users/USER-BOB/Documents/MEGAsync/projetAntoine/index.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/web/error/400.html",
+				"/C/Users/USER-BOB/Documents/MEGAsync/courUdemy/SourceCode_Projet_MySQL 'burger'/index.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/courUdemy/SourceCode_Projet_MySQL 'burger'/admin/database.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/courUdemy/SourceCode_Projet_MySQL 'burger'/admin/delete.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/courUdemy/SourceCode_Projet_MySQL 'burger'/admin/index.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/courUdemy/SourceCode_Projet_MySQL 'burger'/admin/insert.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/courUdemy/SourceCode_Projet_MySQL 'burger'/admin/update.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/courUdemy/SourceCode_Projet_MySQL 'burger'/admin/view.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/courUdemy/BurgerCode/index.html",
+				"/C/Users/USER-BOB/Documents/MEGAsync/courUdemy/BurgerCode/qfqf",
+				"/C/Users/USER-BOB/Documents/MEGAsync/siteAZ/core/includes.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/siteAZ/controller/PagesController.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/siteAZ/core/Controller.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/siteAZ/core/Request.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/siteAZ/core/Router.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/siteAZ/core/Dispatcher.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/siteAZ/webroot/index.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/siteAZ/webroot/css/style.css",
+				"/C/Users/USER-BOB/Documents/MEGAsync/siteAZ/.htaccess",
+				"/C/Users/USER-BOB/Documents/MEGAsync/siteAZ/webroot/.htaccess",
+				"/C/Users/USER-BOB/Documents/MEGAsync/siteAZ/core",
+				"/C/Users/USER-BOB/Documents/MEGAsync/projetAntoine/assets/css/heroic-features.css",
+				"/C/Users/USER-BOB/Documents/MEGAsync/projetAntoine/partials/header.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/projetAntoine/config/database.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/src/Framework/App.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/public/index.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/vendor/phpunit/phpunit/src/Framework/TestCase.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/tests/Framework/AppTest.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/teacher/courTeacher/Voiture.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/teacher/courTeacher/BankAccount.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/classe/tp_mini_jeux/index.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/classe/tp_mini_jeux/PersonnagesManager.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/classe/tp_mini_jeux/Personnage.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/teacher/courTeacher/Person.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/classe/POO/personnageManager.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/composer.phar",
+				"/C/Users/USER-BOB/Documents/MEGAsync/classe/POO/indexPersonnage.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/classe/POO/index2.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/classe/POO/test1.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/web/app.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Views/home/homepage.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Controller/HomeController.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Services/Viewer.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Services/Helper.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Services/Dynamizer.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Services/Dispatcher.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/core/config.inc.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Controller/ItemController.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php",
+				"/C/Users/USER-BOB/AppData/Roaming/Sublime Text 3/Packages/PHP Getters and Setters/php-getters-setters.sublime-settings",
+				"/C/Users/USER-BOB/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+				"/C/Program Files/Cmder/config/user-aliases.cmd",
+				"/C/Users/USER-BOB/Desktop/Cmder/config/user-aliases.cmd",
+				"/C/Users/USER-BOB/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/USER-BOB/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+				"/C/Users/USER-BOB/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/C/Users/USER-BOB/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Controller/CategoryController.php",
+				"/C/Users/USER-BOB/Downloads/Formations/Complet/Fichiers source/Chapitre04/01_dispatcher_le_rendu/Collectify/src/Collectify/Views/home/homepage.html",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Model/BaseRepository.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Model/BaseModel.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Model/ItemRepository.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Model/CategoryRepository.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Model/UserRepository.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Datafixtures/BaseFixtures.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Datafixtures/LoadFixtures.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Datafixtures/ItemFixtures.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Datafixtures/UserFixtures.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Datafixtures/CategoryFixtures.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Model/Category.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/quelqueRessource.html",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Model/Item.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/src/Collectify/Model/User.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/composer.json",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/vendor/gabordemooij/redbean/RedBeanPHP/loader.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/core/bootstrap.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/vendor/gabordemooij/redbean/RedBeanPHP/SimpleModel.php",
+				"/C/Users/USER-BOB/Downloads/Formations/Complet/Fichiers source/Chapitre03/00_pensez_objet/Collectify/src/Collectify/Model/Category.php",
+				"/C/Users/USER-BOB/Downloads/Formations/Complet/Fichiers source/Chapitre02/03_bootstrap_et_point_d_entree/Collectify/web/app.php",
+				"/C/Users/USER-BOB/Downloads/Formations/Complet/Fichiers source/Chapitre02/04_base_de_donnees_et_redbean/Collectify/web/app.php",
+				"/C/Users/USER-BOB/Downloads/Formations/Complet/Fichiers source/Chapitre02/04_base_de_donnees_et_redbean/Collectify/composer.json",
+				"/C/Users/USER-BOB/Downloads/Formations/Complet/Fichiers source/Chapitre02/04_base_de_donnees_et_redbean/Collectify/composer.phar",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/.gitignore",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/index.php",
+				"/C/Users/USER-BOB/AppData/Roaming/Sublime Text 3/Packages/User/CSSLint.sublime-settings",
+				"/C/Users/USER-BOB/Documents/MEGAsync/video2brain/Collectify/composer-setup.php",
+				"/C/Users/USER-BOB/Downloads/php Version/PhpStorm 2018.1 + crack/LicenceServer 1.3/IntelliJIDEALicenseServer.html",
+				"/C/Users/USER-BOB/Downloads/Formations/Complet/Fichiers source/Chapitre01/04_structure_du_projet/Collectify/.DS_Store",
+				"/C/Users/USER-BOB/Documents/MEGAsync/start/composer.json",
+				"/C/Users/USER-BOB/Documents/MEGAsync/start/data/pets.json",
+				"/C/Users/USER-BOB/Documents/MEGAsync/start/lib/function.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/start/contact.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/start/layout/footer.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/start/layout/header.php",
+				"/C/Users/USER-BOB/Documents/MEGAsync/start/index.php",
+				"/C/Users/USER-BOB/Downloads/Z Nation S04/[ Torrent9.bz ] Z.Nation.S04E12.FRENCH.HDTV.XviD-ZT/Musique MP3.html",
+				"/C/Users/USER-BOB/Downloads/Formations/KNPUniversity/Course_1_How_to_win_friends__develop_in_PHP/finish/data/pets.json"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"pass",
+					"js-scroll-trigger",
+					"pass",
+					"permisdeconduire",
+					"actesdemariage",
+					"td",
+					"index",
+					"prenoms",
+					"requette",
+					"TestCase",
+					"private",
+					"id",
+					"niveau",
+					"id",
+					"degats",
+					"forcePerso",
+					"S",
+					"s",
+					"herman",
+					"var",
+					"Id",
+					"id",
+					"Id",
+					"id",
+					"Id",
+					"id",
+					"_niveau",
+					"_degats",
+					"_forcePerso",
+					"controller",
+					"oh",
+					"item",
+					"itemFixtures",
+					"pancake",
+					"db",
+					"public",
+					"degats",
+					";\n",
+					"autoloader",
+					"private",
+					"toto",
+					"public",
+					"krumo",
+					"firstName",
+					"echo",
+					"version",
+					"Perso",
+					"perso",
+					"public",
+					"private"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\USER-BOB\\Documents\\MEGAsync\\classe"
+				},
+				{
+					"path": "C:\\Users\\USER-BOB\\Documents\\MEGAsync\\start"
+				},
+				{
+					"path": "C:\\Users\\USER-BOB\\Documents\\MEGAsync\\video2brain\\Collectify"
+				},
+				{
+					"path": "C:\\Users\\USER-BOB\\Documents\\MEGAsync\\teacher"
+				},
+				{
+					"path": "C:\\Users\\USER-BOB\\Documents\\MEGAsync\\MonFramework"
+				},
+				{
+					"path": "C:\\Users\\USER-BOB\\Documents\\MEGAsync\\projetAntoine"
+				},
+				{
+					"path": "C:\\Users\\USER-BOB\\Documents\\MEGAsync\\siteAZ"
+				},
+				{
+					"path": "C:\\Users\\USER-BOB\\Documents\\MEGAsync\\courUdemy\\BurgerCode"
+				},
+				{
+					"path": "C:\\Users\\USER-BOB\\Documents\\MEGAsync\\web"
+				},
+				{
+					"path": "C:\\Users\\USER-BOB\\Documents\\MEGAsync\\GICOPECAM_bon"
+				},
+				{
+					"path": "C:\\Users\\USER-BOB\\Documents\\MEGAsync\\ConnecDeconnec"
+				},
+				{
+					"path": "C:\\Users\\USER-BOB\\Documents\\MEGAsync\\divers\\Tuto"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/public/index.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 328,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										137,
+										137
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												137,
+												138
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												136,
+												137
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/composer.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 383,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										344,
+										344
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": 16,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												379,
+												380
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												339,
+												340
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/src/Framework/App.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 432,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										432,
+										432
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/Users/USER-BOB/Documents/MEGAsync/MonFramework/tests/Framework/AppTest.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 451,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										415,
+										415
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 134.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 134.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,959,713,35,1927",
+			"project": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"classename",
+						"classe\\POO\\personnageManager.php"
+					],
+					[
+						"ReadbeanPHP\\fa",
+						"Collectify\\vendor\\gabordemooij\\redbean\\RedBeanPHP\\Facade.php"
+					],
+					[
+						"Reabean\\fa",
+						"Collectify\\vendor\\gabordemooij\\redbean\\RedBeanPHP\\Facade.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 227.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

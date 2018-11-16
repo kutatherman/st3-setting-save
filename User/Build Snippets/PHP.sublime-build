@@ -1,0 +1,8 @@
+{
+  //"shell_cmd": "make"
+
+  "cmd": "C:\\laragon\\bin\\php\\php-7.1.1-Win32-VC14-x86\\php.exe ${file}",
+  "selector": "source.php",
+  "file_regex": "^(...*?):([0-9]*):?([0-9]*)",
+  "working_dir": "${file_path} ",
+}
